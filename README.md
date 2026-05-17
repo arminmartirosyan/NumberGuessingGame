@@ -96,14 +96,6 @@ GUESS-THE-NUMBER/
 └── assets/
 ```
 
----
-
-## Screenshots
-
-<img width="700" src="assets/screenshot.png">
-
----
-
 ## Future Improvements
 
 - Sound effects
